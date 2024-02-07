@@ -1,0 +1,423 @@
+.black{
+    background-color: rgba(0, 0, 0, 0.717);
+}
+.bol{
+    color: white;
+}
+.contact:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.contact{
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 0px;
+}
+.color{
+    color: silver; 
+}
+.find:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.find{
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+    text-decoration: none;
+}
+.gold{
+    background-color:rgba(181, 98, 10, 0.782);
+}
+.head{
+    color: silver;
+    font-size: 50px;
+    padding-top: 70px;
+    margin-top: -70px;
+}
+.head2{
+    color:silver;
+    font-size: 50px;
+}
+.headin{
+    color: silver;
+    padding-top: 70px;
+    font-size: 50px;
+}
+.heading{
+    color: silver;
+    color: black;
+    margin-left: -60px;
+    margin-top: -20px;
+}
+.hor{
+    color: silver;
+    height: 10px;
+    width: 25%;
+    border-bottom: silver 3px solid;
+   margin: auto;
+}
+.hor1{
+    color: silver;
+    height: 10px;
+    width: 30%;
+    border-bottom: silver 3px solid;
+    margin: auto;
+}
+.hor2{
+    color: silver;
+    height: 10px;
+    width: 30%;
+    border-bottom: silver 3px solid;
+    margin:auto;
+}
+.icon{
+    color: burlywood;
+    margin-left: 10px;
+    opacity: 0.5;
+}
+.icon1{
+    color: silver;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.icon2{
+    color: burlywood;
+}
+.icon3{
+    color: burlywood;
+    font-size: 18px;
+    display: inline-block;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+}
+.icon4{
+    color: silver;
+    font-size: 100px;
+}
+.inbox{
+    height: 500px;
+    margin-top: 100px;
+}
+.inbox2{
+    height: 200px;
+    margin-top: 50px;
+    padding-top: 25px;
+}
+.inbox4{
+    height: 500px;
+    margin-top: 100px;
+}
+.inbox5{
+    height: 500px;
+    margin-top: 100px;
+}
+.inbox7{
+    height: 200px;
+    margin-top: 50px;
+    padding-top: 15px;
+}
+.inbox9{
+    height: 500px;
+    margin-top: 100px;
+}
+.inbox10{
+    height: 500px;
+    margin-top: 100px;
+}
+.inbox12{
+    height: 200px;
+    margin-top: 50px;
+}
+.inbox14{
+    height: 500px;
+    margin-top: 100px;
+}
+.inbox15{
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px;
+    width: 100%;
+    background-image: url(4\ Rivers\ Symbol.jfif);
+    background-repeat: no-repeat;
+}
+.inbox16{
+    margin-top: 50px;
+}
+.inbox17{
+    margin-top: 30px;
+}
+.inbox18{
+    margin-top: 30px;
+}
+.inbox19{
+    height: 20px;
+}
+.lin{
+    color: white;
+}
+.learn:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.learn{
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+    text-decoration: none;
+}
+.line1{
+    background-color: rgb(225, 213, 110);
+    height: 1px;
+    width: 50%;
+    margin-top: 40px;
+}
+.line2{
+    background-color: rgb(225, 213, 110);
+    height: 1px;
+    width: 80%;
+    margin-top: 40px;
+    
+}
+.line3{
+    background-color: rgb(225, 213, 110);
+    height: 1px;
+    width: 50%;
+    margin-top: 40px;
+    margin-left:80% ;
+}
+.line4{
+    background-color: rgb(225, 213, 110);
+    height: 1px;
+    width: 80%;
+    margin-top: 40px;
+}
+.line5{
+    background-color: rgb(225, 213, 110);
+    height: 1px;
+    width: 50%;
+    margin-top: 40px;
+    margin-right: 55%;
+}
+.line6{
+    background-color: rgb(225, 213, 110);
+    height: 1px;
+    width: 80%;
+    margin-top: 40px;
+    margin-right: 25%;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link:hover{
+    color: silver;
+}
+.nav-link{
+    color: silver;
+    margin-left: 10px;
+    padding-left: 30px;
+    opacity: 0.5;
+}
+.nav-link1:hover{
+    color: silver;
+    text-align: center;
+    text-decoration: none;
+}
+.nav-link1{
+    color: silver;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 400px;
+    opacity: 0.5;
+}
+.para{
+    color: silver;
+}
+.pg{
+    color: white;
+    font-family:italic;
+    font-size: 25px;
+    padding-top: 25px;
+}
+.png{
+    color: black;
+    font-size: 25px;
+    padding-top: 25px;
+    font-family:'Gill Sans',solid;
+    font-weight: 500px;
+}
+.pgn{
+    color: white;
+    font-size: 25px;
+    padding-top: 25px;
+    font-family:harlow,solid;
+    font-style: italic;
+    font-weight: 500px;
+}
+.press{
+    margin: 0px;
+    padding: 0px;
+}
+.sec1{
+    text-align: center;
+    background-image: url(4\ Rivers\ SmokeHouse\ Brisket.jpg);
+    background-size: cover;
+}
+div.opacity{
+    background-color: rgba(0, 0, 0, 0.189);
+    height: 100%;
+    width: 100%;
+}
+.sec2{
+    text-align: center;
+    background-image: url(Cooking.jpg);
+    background-size: cover;
+}
+div.opacity{
+    background-color: rgba(0, 0, 0, 0.189);
+    height: 100%;
+    width: 100%;
+}
+.sec3{
+    text-align: center;
+    background-image: url(Dinning.jpg);
+    background-size: cover;
+}
+div.opacity{
+    background-color: rgba(0, 0, 0, 0.189);
+    height: 100%;
+    width: 100%;
+}
+.sec4{
+    text-align: center;
+    background-image: url(Catering.jpg);
+    background-size: cover;
+}
+.sec5{
+    text-align: center;
+    background-image: url(Chef.jpg);
+    background-size: cover;
+}
+div.opacity{
+    background-color: rgba(0, 0, 0, 0.189);
+    height: 100%;
+    width: 100%;
+}
+.sec6{
+    text-align: center;
+    background-image: url(Korean\ Alcohol\ Makgeolli.jpg);
+    background-size: cover;
+}
+.sec7{
+    text-align: center;
+    background-image: url(Couples.jpg);
+    background-size: cover;
+}
+.sec8{
+    text-align: center;
+    background-image: url(Family.jpg);
+    background-size: cover;
+}
+div.opacity{
+    background-color: rgba(0, 0, 0, 0.282);
+    height: 100%;
+    width: 100%;
+}
+.sec9{
+    text-align: center;
+    background-image: url(Chef\ Cooking.jpg);
+    background-size: cover;
+}
+.sec11{
+    height: 80px;
+    text-align: center;
+}
+.see:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.see{
+    background-color: burlywood;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+}
+.shop:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.shop{
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+    text-decoration: none;
+}
+.us:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.us{
+    background-color: burlywood;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+    text-decoration: none;
+}
+.view:hover{
+    background-color: rgb(200, 154, 95);
+    text-decoration: none;
+}
+.view{
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px burlywood;
+    text-decoration: none;
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.719);
+}
+@media(max-width:480px){
+    .hor{
+        height: 10px;
+        width: 60%;
+        border-bottom: silver 3px solid;
+        margin:auto;
+    }
+    .hor1{
+        height: 10px;
+        width: 70%;
+        border-bottom: silver 3px solid;
+        margin:auto;
+    }
+    .hor2{
+        height: 10px;
+        width: 70%;
+        border-bottom: silver 3px solid;
+        margin:auto;
+        
+    }
+}
